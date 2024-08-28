@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Fala paee! Cadu Nunes na tecla. </h1>
-<h3 align="center">Formação Bacharel em Química-USP </h3>
+<h3 align="center">Formação: Bacharel em Química-USP </h3>
 
 <!-- Social icons -->
 <p align="center">
