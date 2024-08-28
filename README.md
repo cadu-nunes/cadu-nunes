@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">**Hi there! What´s up! I'm Cadu Nunes** </h1>
-<h3 align="center">**Bacharel em Químmica-USP** </h3>
+<h1 align="center">Hi there, What´s up! I'm Cadu Nunes </h1>
+<h3 align="center">Formação Bacharel em Química-USP </h3>
 
 <!-- Social icons -->
 <p align="center">
@@ -10,10 +10,10 @@
 
 <!-- Introduction -->
 <p align="center">
-🔭 **Sobre Mim:** Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
+🔭 Sobre Mim: Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
 
 <!-- Languages and tools -->
-<h3 align="center">📚**Áreas de Estudo e Conhecimento:**🌱 </h3>
+<h3 align="center">📚Áreas de Estudo e Conhecimento:🌱 </h3>
 <p align="center">
 
 - *Lógica de Programação e Algoritmos:* Algoritmos, linguagens de programação, ambiente de desenvolvimento, manipulação de arquivos, controle de versões com Git.
