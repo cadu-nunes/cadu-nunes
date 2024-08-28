@@ -17,4 +17,4 @@
 - *Testes de Software:* Planejamento e execução de testes.
 - *Projetos de Software:* Qualidade de software, metodologias de desenvolvimento, gerenciamento de projetos e apresentação de projetos.
 
-[Linkedin](https://blog.b2bstack.com.br/wp-content/uploads/2022/11/linkedin-logo.png.webp)](https://www.linkedin.com/in/carlosnunesteles/)
+![Linkedin](https://blog.b2bstack.com.br/wp-content/uploads/2022/11/linkedin-logo.png.webp)](https://www.linkedin.com/in/carlosnunesteles/)
