@@ -1,10 +1,20 @@
-## **Hi there! What´s up!** ⚡
+<!-- Header -->
+<h1 align="center">**Hi there! What´s up! I'm Cadu Nunes** </h1>
+<h3 align="center">**Bacharel em Químmica-USP** </h3>
 
-# **I'm Cadu** 😄
+<!-- Social icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlosnunesteles/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
+<!-- Introduction -->
+<p align="center">
 🔭 **Sobre Mim:** Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
 
-📚 **Áreas de Estudo e Conhecimento:** 🌱
+<!-- Languages and tools -->
+<h3 align="center">📚**Áreas de Estudo e Conhecimento:**🌱 </h3>
+<p align="center">
 
 - *Lógica de Programação e Algoritmos:* Algoritmos, linguagens de programação, ambiente de desenvolvimento, manipulação de arquivos, controle de versões com Git.
 - *Sistemas Operacionais:* Conhecimento em sistemas operacionais de código fechado e aberto, segurança cibernética, VPN, e políticas de segurança da informação.
@@ -16,5 +26,3 @@
 - *Programação para Dispositivos Móveis:* Criação de interfaces, APIs, persistência de dados, consumo de RESTful web services.
 - *Testes de Software:* Planejamento e execução de testes.
 - *Projetos de Software:* Qualidade de software, metodologias de desenvolvimento, gerenciamento de projetos e apresentação de projetos.
-
-![Linkedin](https://blog.b2bstack.com.br/wp-content/uploads/2022/11/linkedin-logo.png.webp)](https://www.linkedin.com/in/carlosnunesteles/)
