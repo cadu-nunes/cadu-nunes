@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Fala paee! Cadu Nunes </h1>
+<h1 align="center">Cadu Nunes </h1>
 <h3 align="center">Formação: Bacharel em Química-USP </h3>
 
 <h3 align="center">🚀 "Da química à programação: transformando problemas complexos em soluções inovadoras, um código de cada vez." 🚀 </h3>
