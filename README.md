@@ -15,7 +15,7 @@
 🔭 Sobre Mim: Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
 
 <!-- Languages and tools -->
-<h3 align="center">📚 Áreas de Estudo e Conhecimento: 🌱 </h3>
+<h3 align="center">📚 Áreas de Estudo e Conhecimento do Curso DEV: 🌱 </h3>
 <p align="center">
 
 - *Lógica de Programação e Algoritmos:* Algoritmos, linguagens de programação, ambiente de desenvolvimento, manipulação de arquivos, controle de versões com Git.
@@ -28,3 +28,9 @@
 - *Programação para Dispositivos Móveis:* Criação de interfaces, APIs, persistência de dados, consumo de RESTful web services.
 - *Testes de Software:* Planejamento e execução de testes.
 - *Projetos de Software:* Qualidade de software, metodologias de desenvolvimento, gerenciamento de projetos e apresentação de projetos.
+
+<!-- Languages and tools -->
+<h3 align="center">💻 Habilidades: Linguagens e ferramentas em uso </h3>
+<p align="center">
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
