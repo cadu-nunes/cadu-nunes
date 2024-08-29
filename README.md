@@ -13,7 +13,7 @@
 
 <!-- Introduction -->
 <p align="center">
-Atualmente, estou cursando Técnico em **Desenvolvimento de Sistemas** no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, com previsão de conclusão em dezembro de 2025. Minha formação está me proporcionando uma ampla gama de conhecimentos e habilidades para desenvolver, testar e implantar sistemas computacionais. Estou entusiasmado em aplicar esses conhecimentos em projetos reais e contribuir para a criação de soluções tecnológicas inovadoras e eficientes.
 
 <!-- Languages and tools -->
 <h3 align="center">📚 Áreas de Estudo e Conhecimento do Curso DEV: 🌱 </h3>
