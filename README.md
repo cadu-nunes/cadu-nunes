@@ -33,9 +33,7 @@ Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, 
 <!-- Languages and tools -->
 <h3 align="center">💻 Habilidades: Linguagens e Ferramentas em Uso </h3>
 <p align="center">
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="center">
+
 
