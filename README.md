@@ -36,3 +36,4 @@ Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
