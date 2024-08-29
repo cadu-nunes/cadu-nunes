@@ -31,7 +31,8 @@ Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, 
 - *Projetos de Software:* Qualidade de software, metodologias de desenvolvimento, gerenciamento de projetos e apresentação de projetos.
 
 <!-- Languages and tools -->
-<h3 align="center">💻 Habilidades: Linguagens e ferramentas em uso </h3>
+<h3 align="center">💻 Habilidades: linguagens e ferramentas em uso </h3>
 <p align="center">
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
