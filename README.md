@@ -1,14 +1,15 @@
 <!-- Header -->
 <h1 align="center">Cadu Nunes </h1>
-<h3 align="center">Formação: Bacharel em Química-USP </h3>
-
-<h3 align="center">🚀 "Da química à programação: transformando problemas complexos em soluções inovadoras, um código de cada vez." 🚀 </h3>
 
 <!-- Social icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosnunesteles/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
+<h3 align="center">Formação: Bacharel em Química-USP </h3>
+
+<h3 align="center">🚀 "Da química à programação: transformando problemas complexos em soluções inovadoras, um código de cada vez." 🚀 </h3>
 
 <!-- Introduction -->
 <p align="center">
