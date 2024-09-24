@@ -31,10 +31,16 @@ Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI-SP, 
 - **Projetos de Software:** Qualidade de software, metodologias de desenvolvimento, gerenciamento de projetos e apresentação de projetos.
 
 <!-- Languages and tools -->
-<h3 align="center">💻 Habilidades: Linguagens e Ferramentas em Uso 🌱 </h3>
+<h3 align="center">💻 Habilidades: Linguagens e Ferramentas que eu uso 🌱 </h3>
 <p align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" alt="Google Cloud">
