@@ -14,7 +14,7 @@
 <!-- Introduction -->
 <p align="center">
 
-  🎯 Químico por formação, desenvolvedor em formação e entusiasta da análise de dados.
+  Químico por formação, desenvolvedor em formação e entusiasta da análise de dados.
 
   Com mais de 10 anos de experiência em ambientes laboratoriais de alta complexidade na indústria nuclear, hoje foco minha carreira em transformar dados em soluções reais usando **Python** e **SQL**.
 
