@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center"> 👋 Olá! Eu sou o Cadu Nunes 👋 </h1>
+<h1 align="center"> 👋 Olá! Eu sou o Cadu 👋 </h1>
 
 <!-- Social icons -->
 <p align="center">
